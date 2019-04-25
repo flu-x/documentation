@@ -3,7 +3,3 @@ search_enabled: true
 aux_links:
     "Browserium on GitHub":
       - "//github.com/browserium/Browserium"
-url:
-    browserium.github.io
-baseurl:
-    /docs
