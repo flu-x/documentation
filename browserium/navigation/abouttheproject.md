@@ -29,6 +29,6 @@ All contributors are welcome to support, make changes in the documentation as we
 Please follow the guideline as mentioned to contribute to the purpose of Browserium
 - Please go through the entire documentation
 - Follow proper [documentation standards](https://guides.github.com/features/wikis/)
-- Raise a [pull request](https://github.com/browserium/browserium_doc/pulls)
+- Raise a [pull request](https://github.com/browserium/documentation/pulls)
 - Follow any comments or changes suggested on a pull request.
 
