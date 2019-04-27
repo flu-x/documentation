@@ -32,3 +32,20 @@ Please follow the guideline as mentioned to contribute to the purpose of Browser
 - Raise a [pull request](https://github.com/browserium/documentation/pulls)
 - Follow any comments or changes suggested on a pull request.
 
+## Classifiers
+------------------------------------------------------------------------------------------
+### Development Status
+* Production / Stable
+
+### Intended Audience
+* Developers
+* Information Technology
+
+### License
+* OSI Approved :: MIT License
+
+### Programming Language
+* Python :: 2
+* Python :: 2.6
+* Python :: 2.7
+* Python :: 3.7
