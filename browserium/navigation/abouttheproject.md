@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About The Project
+title: Browserium - about the project
 nav_order: 5
 ---
 

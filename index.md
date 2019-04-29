@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Browserium - Home
 nav_order: 1
 ---
 

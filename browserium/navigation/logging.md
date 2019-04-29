@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logging
+title: Browserium - logging
 nav_order: 4
 ---
 
