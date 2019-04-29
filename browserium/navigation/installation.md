@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module Configuration
+title: Browserium - module configuration
 nav_order: 2
 ---
 
