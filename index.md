@@ -13,7 +13,7 @@ nav_order: 1
 
 [Get Started](https://browserium.in/browserium/navigation/installation.html){: .btn .btn-purple }
 [View it on GitHub](https://github.com/browserium/Browserium){: .btn .btn-blue }
-[View it on PyPi](https://pypi.org/project/browserium/){: .btn .btn-yellow }
+[View it on PyPi](https://pypi.org/project/browserium/){: .btn .btn-green }
 
 ## Problem Statement
 ------------------------------------------------------------------------------------------
