@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Browserium - browser functions
+title: Browser Functions
 nav_order: 3
 ---
 

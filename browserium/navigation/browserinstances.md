@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Browserium - browser instances
+title: Browser Instances
 nav_order: 4
 ---
 
