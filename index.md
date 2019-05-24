@@ -44,3 +44,5 @@ There are two ways in which you can use Browserium.
 *   Download the required browser driver, create instance for the specific browser driver class, create instance for the browser controller class and use the generic functions to get started with your framework.
 
 You can refer to the above diagram for reference.
+
+![BrowserStack_Logo](images/Browserstack-logo.png)
