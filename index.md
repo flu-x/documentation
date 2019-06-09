@@ -45,4 +45,4 @@ There are two ways in which you can use Browserium.
 
 You can refer to the above diagram for reference.
 
-![BrowserStack_Logo](images/Browserstack-logo.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57a23065-8f12-47d2-bbcb-c83b6988adee/deploy-status)](https://app.netlify.com/sites/browserium/deploys)
