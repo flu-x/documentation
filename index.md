@@ -11,7 +11,7 @@ nav_order: 1
 
 **Flexibox** is the a selenium wrapper for all **browsers** and **browser** **configurations**. This module is a single end point to access all the browser drivers and as well as the webdriver object for all the respective browsers along with the installation of your **selenium** module.
 
-[Get Started](https://flexibox.in/flexibox/navigation/installation.html){: .btn .btn-purple }
+[Get Started](https://browserium.in/browserium/navigation/installation.html){: .btn .btn-purple }
 [View it on GitHub](https://github.com/flu-x/flexibox){: .btn .btn-blue }
 [View it on PyPi](https://pypi.org/project/flexibox/){: .btn .btn-green }
 
