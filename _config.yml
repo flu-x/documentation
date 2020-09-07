@@ -1,7 +1,7 @@
 theme: "just-the-docs"
 search_enabled: true
 aux_links:
-    "Browserium on GitHub":
-      - "//github.com/browserium/Browserium"
+    "Flexibox on GitHub":
+      - "//github.com/flu-x/flexibox"
 theme_config:
     images/favicon.ico

@@ -6,14 +6,14 @@ nav_order: 4
 
 ## Create instance for Chrome
 ------------------------------------------------------------------------------------------
-Please follow the below guidelines to create a browser instance for Chrome using browserium
+Please follow the below guidelines to create a browser instance for Chrome using flexibox
 *      Create instance for the `ChromeDriverObject` class
 *      Use the instance for `ChromeDriverObject` class to call the `set_chromedriver_object` method.
 *      Create instance for the `Browser_controller` class to use the generic methods.
 
 ```python
-	from browserium.generic_functions.chrome_object import ChromeDriverObject
-	from browserium.generic_functions.browser_controller import Browser_controller
+	from flexibox.generic_functions.chrome_object import ChromeDriverObject
+	from flexibox.generic_functions.browser_controller import Browser_controller
 	from time import sleep
 
 	class Test_1():
@@ -29,8 +29,8 @@ Please follow the below guidelines to create a browser instance for Chrome using
 *      To run chromedriver with custom configurations, pass the configurations as a list of objects to the `set_chromedriver_object()` method. Refer to the codebase below as suggested.
 
 ```python
-	from browserium.generic_functions.chrome_object import ChromeDriverObject
-	from browserium.generic_functions.browser_controller import Browser_controller
+	from flexibox.generic_functions.chrome_object import ChromeDriverObject
+	from flexibox.generic_functions.browser_controller import Browser_controller
 	class Test_1():
 		def test_chromedriver_type1(self):
 			chromedriver = ChromeDriverObject()
@@ -44,14 +44,14 @@ Please follow the below guidelines to create a browser instance for Chrome using
 
 ## Create instance for Firefox
 ------------------------------------------------------------------------------------------
-Please follow the below guidelines to create a browser instance for Firefox using browserium
+Please follow the below guidelines to create a browser instance for Firefox using flexibox
 *   Create instance for the `GeckoDriverObject` class
 *   Use the instance for `GeckoDriverObject` class to call the `set_geckodriver_object` method.
 *   Create instance for the `Browser_controller` class to use the generic methods.
 
 ```python
-	from browserium.generic_functions.gecko_object import GeckoDriverObject
-	from browserium.generic_functions.browser_controller import Browser_controller
+	from flexibox.generic_functions.gecko_object import GeckoDriverObject
+	from flexibox.generic_functions.browser_controller import Browser_controller
 	class Test1():
 		def test_geckodriver_type1(self):
 			geckodriver = GeckoDriverObject()
@@ -67,8 +67,8 @@ Please follow the below guidelines to create a browser instance for Firefox usin
 *       To run geckodriver with custom configurations, pass the configurations as a list of objects to the `set_geckodriver_object()` method. Refer to the codebase below as suggested.
 
 ```python
-	from browserium.generic_functions.gecko_object import GeckoDriverObject
-	from browserium.generic_functions.browser_controller import Browser_controller
+	from flexibox.generic_functions.gecko_object import GeckoDriverObject
+	from flexibox.generic_functions.browser_controller import Browser_controller
 	class Test1():
 		def test_geckodriver_type1(self):
 			geckodriver = GeckoDriverObject()
@@ -83,14 +83,14 @@ Please follow the below guidelines to create a browser instance for Firefox usin
 
 ## Create instance for Opera
 ------------------------------------------------------------------------------------------
-Please follow the below guidelines to create a browser instance for Opera using browserium
+Please follow the below guidelines to create a browser instance for Opera using flexibox
 *   Create instance for the `OperaDriverObject` class
 *   Use the instance for `OperaDriverObject` class to call the `set_operadriver_object` method
 *   Create instance for the `Browser_controller` class to use the generic methods.
 
 ```python
-	from browserium.generic_functions.opera_object import OperaDriverObject
-	from browserium.generic_functions.browser_controller import Browser_controller
+	from flexibox.generic_functions.opera_object import OperaDriverObject
+	from flexibox.generic_functions.browser_controller import Browser_controller
 	class Test1():
 		def test_operadriver_type1(self):
 			operadriver = OperaDriverObject()
@@ -105,14 +105,14 @@ Please follow the below guidelines to create a browser instance for Opera using 
 
 ## Create instance for Safari
 ------------------------------------------------------------------------------------------
-Please follow the below guidelines to create a browser instance for Safari using browserium
+Please follow the below guidelines to create a browser instance for Safari using flexibox
 *   Create instance for the `SafariDriverObject` class
 *   Use the instance for `SafariDriverObject` class to call the `set_safaridriver_object` method
 *   Create instance for the `Browser_controller` class to use the generic methods.
 
 ```python
-	from browserium.generic_functions.safari_object import SafariDriverObject
-	from browserium.generic_functions.browser_controller import Browser_controller
+	from flexibox.generic_functions.safari_object import SafariDriverObject
+	from flexibox.generic_functions.browser_controller import Browser_controller
 	class Test_1():
 		def test_safaridriver_type1(self):
 			safaridriver = SafariDriverObject()
@@ -135,5 +135,5 @@ Keep in mind that your safari version has to be more than 10. If it is not 10 or
 To delete all browser drivers from `/usr/local/bin` run the command:
 
    ```python
-   browserium delete --driver=all
+   flexibox delete --driver=all
    ```

@@ -4,16 +4,16 @@ title: Home
 nav_order: 1
 ---
 
-# Browserium
+# Flexibox
 ------------------------------------------------------------------------------------------
 
-<!-- ![Browserium logo](https://farm2.staticflickr.com/1742/41852028144_642310d9b6_m.jpg) -->
+<!-- ![Flexibox logo](https://live.staticflickr.com/65535/50236270473_9e9e3bfce5.png) -->
 
-**Browserium** is the a selenium wrapper for all **browsers** and **browser** **configurations**. This module is a single end point to access all the browser drivers and as well as the webdriver object for all the respective browsers along with the installation of your **selenium** module.
+**Flexibox** is the a selenium wrapper for all **browsers** and **browser** **configurations**. This module is a single end point to access all the browser drivers and as well as the webdriver object for all the respective browsers along with the installation of your **selenium** module.
 
-[Get Started](https://browserium.in/browserium/navigation/installation.html){: .btn .btn-purple }
-[View it on GitHub](https://github.com/browserium/Browserium){: .btn .btn-blue }
-[View it on PyPi](https://pypi.org/project/browserium/){: .btn .btn-green }
+[Get Started](https://flexibox.in/flexibox/navigation/installation.html){: .btn .btn-purple }
+[View it on GitHub](https://github.com/flu-x/flexibox){: .btn .btn-blue }
+[View it on PyPi](https://pypi.org/project/flexibox/){: .btn .btn-green }
 
 ## Problem Statement
 ------------------------------------------------------------------------------------------
@@ -23,9 +23,9 @@ Now, for a stable build we have to check that our application is compatible with
 
 ## The Idea
 ------------------------------------------------------------------------------------------
-The problem statement that has been defined above was the reason I took out time to ease this entire process of setting up the browser drivers and the respective configurations for each browser. What if this process can be reduced down into few steps of execution? That is how I ended up with the idea and the implementation of **Browserium**.
+The problem statement that has been defined above was the reason I took out time to ease this entire process of setting up the browser drivers and the respective configurations for each browser. What if this process can be reduced down into few steps of execution? That is how I ended up with the idea and the implementation of **Flexibox**.
 
-## Features covered up by 'Browserium'
+## Features covered up by 'Flexibox'
 ------------------------------------------------------------------------------------------
 *   One step to **download** the required browser drivers.
 *   One step to **update** the required browser drivers.
@@ -33,16 +33,16 @@ The problem statement that has been defined above was the reason I took out time
 *   A set of browser related **generic** **functions** that can be utilised for debugging as well as for achieving the required functionalities and reduce efforts.
 *   You can run browsers **Chrome** and **Firefox** using custom configurations by passing the configurations as a list of objects. The module should automatically handle all custom configurations.
 
-## Browserium by functionality
+## Flexibox by functionality
 ------------------------------------------------------------------------------------------
 
 ![functionality screenshot](https://farm2.staticflickr.com/1750/41853754714_971a727962.jpg)
 
-There are two ways in which you can use Browserium.
+There are two ways in which you can use Flexibox.
 
 *   Download the required browser driver, create instance for the specific browser driver class.
 *   Download the required browser driver, create instance for the specific browser driver class, create instance for the browser controller class and use the generic functions to get started with your framework.
 
 You can refer to the above diagram for reference.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57a23065-8f12-47d2-bbcb-c83b6988adee/deploy-status)](https://app.netlify.com/sites/browserium/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57a23065-8f12-47d2-bbcb-c83b6988adee/deploy-status)](https://app.netlify.com/sites/flexibox/deploys)
